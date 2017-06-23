@@ -1,0 +1,19 @@
+{
+  "name": "tcp-framework-codec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanywhere/tcp-framework-codec.git"
+  },
+  "author": "rayanywhere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayanywhere/tcp-framework-codec/issues"
+  },
+  "homepage": "https://github.com/rayanywhere/tcp-framework-codec#readme"
+}
